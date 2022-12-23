@@ -5,7 +5,7 @@ Final project for MTH9815
 OR  
 2. Change the correpsonding path (including boost path) and run  
 ```
-g++ -std=c++11 -I/usr/local/boost_1_80_0/ -L/usr/local/boost_1_80_0/libs/ -Wall -m64 main.cpp -o main  
+g++ -std=c++17 -I/usr/local/boost_1_80_0/ -L/usr/local/boost_1_80_0/libs/ -Wall -m64 main.cpp -o main  
 ```
 ```
 ./main
